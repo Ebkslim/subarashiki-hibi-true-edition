@@ -1,3 +1,4 @@
+spaces
 torch
 transformers
 huggingface_hub<1.0

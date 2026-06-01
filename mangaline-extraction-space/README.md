@@ -7,6 +7,7 @@ sdk: gradio
 sdk_version: 6.15.2
 python_version: "3.12"
 app_file: app.py
+suggested_hardware: zero-a10g
 pinned: false
 license: mit
 ---
