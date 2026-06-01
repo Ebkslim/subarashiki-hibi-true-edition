@@ -43,7 +43,7 @@ demo = gr.Interface(
         "[p1atdev/MangaLineExtraction-hf](https://huggingface.co/p1atdev/MangaLineExtraction-hf). "
         "Upload an image and the model returns a grayscale line drawing."
     ),
-    allow_flagging="never",
+    flagging_mode="never",
 )
 
 if __name__ == "__main__":
