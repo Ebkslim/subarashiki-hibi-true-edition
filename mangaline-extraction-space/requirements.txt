@@ -1,5 +1,6 @@
 torch
-transformers>=4.40.0
+transformers
+huggingface_hub<1.0
 pillow
 numpy
-gradio>=4.0.0
+gradio==4.44.1
