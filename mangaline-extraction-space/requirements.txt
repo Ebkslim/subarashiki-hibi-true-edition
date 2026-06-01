@@ -3,4 +3,5 @@ transformers
 huggingface_hub<1.0
 pillow
 numpy
+opencv-python-headless
 gradio==4.44.1
